@@ -1,5 +1,5 @@
-<h1 align="center">inho-park</h1>
-<h2 align="center">박준성</h2>
+<h1 align="center">inho-park<br>
+Junseong Park 박준성</h1>
 <h3 align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finho-park&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
@@ -9,10 +9,9 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=inho-park&theme=nord&title=Stars,Followers,Commits,PullRequest,MultiLanguage,Repositories" alt="inho-park" />
+    <img src="https://github-profile-trophy.vercel.app/?username=inho-park&theme=nord&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" alt="inho-park" />
   </a>
 </p>
-
 
 
 <h3 align="center">Languages and Tools</h3>
