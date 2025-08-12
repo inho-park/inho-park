@@ -15,7 +15,7 @@ Junseong Park 박준성
 </p>
 
 
-<h3 align="center">Languages and Tools</h3>
+# Languages and Tools
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -52,8 +52,8 @@ Junseong Park 박준성
 
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=inho-park&theme=nord" /> <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=inho-park&show_icons=true&locale=en&theme=nord&count_private=true&include_all_commits=true&line_height=33" alt="inho-park" />
-  &nbsp;&nbsp;
-  <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inho-park&show_icons=true&hide=css" alt="inho-park" />
 </p>
+
+# Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstjdsla)](https://solved.ac/wnstjdsla/)
