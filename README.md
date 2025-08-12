@@ -8,12 +8,13 @@ Junseong Park 박준성
   </a>
 </h3>
 
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=inho-park&theme=nord&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" alt="inho-park" />
   </a>
 </p>
-
+-->
 
 # Languages and Tools
 <p align="center">
